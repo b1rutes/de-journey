@@ -1,6 +1,6 @@
 # Learning Log
 
-One entry per study session. Copy the template, fill it in, commit it.
+<!-- One entry per study session. Copy the template, fill it in, commit it.
 Rule: no session ends without an entry.
 
 ---
@@ -70,7 +70,7 @@ GROUP BY collapses rows into one per shop. Forgot that every non-aggregated colu
 - What blocked me:
 - Plan for next week:
 
----
+--- -->
 
 ## Entries
 
