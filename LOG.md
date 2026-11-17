@@ -1,66 +1,36 @@
 # Learning Log
 
-<!-- One entry per study session. Copy the template, fill it in, commit it.
-Rule: no session ends without an entry.
-
+<!--
 ---
 
-## Entry template (copy from here)
+## Entry template 
 
 ### YYYY-MM-DD · Week N · Topic (SQL / Python / Git / Postgres / Modelling)
 
 **Time spent:** 
 
 **Question or achievement today:**
-(What was the problem, or what did you get done?)
+(What was the problem, or what did I get done?)
 
 **What I did first (my first approach):**
-(Write it even if it was wrong. This is the most valuable part.)
+(Tried this first.)
 
 **What I finally did (final solution):**
-(Paste the final query or code, or link the file.)
+(The final query or code or link to the file.)
 
 ```sql
 -- final query / code here
 ```
 
 **Comment:**
-(What you missed, what clicked, what to revisit, questions to ask.)
+(What I missed, what clicked, what to revisit, questions to ask.)
 
 **Status:** solved / partly solved / stuck
 **Revisit on:** (date, if not fully solved)
 
 ---
 
-## Example entry
-
-### 2026-11-16 · Week 1 · SQL
-
-**Time spent:** 1h 30m
-
-**Question or achievement today:**
-Find the total sales per shop from a sales table.
-
-**What I did first (my first approach):**
-Selected all rows and tried to add the amounts by hand in the result.
-
-**What I finally did (final solution):**
-
-```sql
-SELECT shop, SUM(amount) AS total_sales
-FROM sales
-GROUP BY shop;
-```
-
-**Comment:**
-GROUP BY collapses rows into one per shop. Forgot that every non-aggregated column in SELECT must appear in GROUP BY. Retry with two columns tomorrow.
-
-**Status:** solved
-**Revisit on:** n/a
-
----
-
-## Sunday review (copy weekly)
+## Sunday review 
 
 ### Week N review
 
@@ -79,7 +49,7 @@ GROUP BY collapses rows into one per shop. Forgot that every non-aggregated colu
 **Time spent:**  2h
 
 **Question or achievement today:**
-LeetCode ##003 Longest Substring : Finding a longest substring from a given string without repeating characters.
+LeetCode #0003 Longest Substring : Finding a longest substring from a given string without repeating characters.
 
 **What I did first (my first approach):**
 Finding a longest substring removing the repeated characters using string slicing instead of sliding windows which returned mostly sequences.
@@ -100,10 +70,10 @@ Slicing returned sequences or not the longest substring.
 **Time spent:**  2h
 
 **Question or achievement today:**
-LeetCode ##007 Reversed Number : Finding the reversed number of a number given it must be a 32 bit.
+LeetCode ##0007 Reversed Number : Finding the reversed number of a number given it must be a 32 bit.
 
 **What I did first (my first approach):**
-Approached it with the polindrome algorithm and considering the changing the sign first and adding it later on.
+Approached it with the palindrome algorithm and considering the changing the sign first and adding it later on.
 
 **What I finally did (final solution):**
 "see python/leetcode/007-reversed-number.py"
@@ -121,7 +91,7 @@ Considering the 32 bit integer as integers go beyond that.
 **Time spent:**  2h
 
 **Question or achievement today:**
-LeetCode ##009 Palindrome Number : Finding if the number is palindrome or not.
+LeetCode ##0009 Palindrome Number : Finding if the number is palindrome or not.
 
 **What I did first (my first approach):**
 Removing negatives since they can't be palindrome .
@@ -142,7 +112,7 @@ Negative numbers are not palindrome.
 **Time spent:**  2h
 
 **Question or achievement today:**
-LeetCode ##0013 Two sum : Returning an integer corresponding to a certain Roman values.
+LeetCode #0013 Two sum : Returning an integer corresponding to a certain Roman values.
 
 **What I did first (my first approach):**
 Using dictionaries to look up for roman values with their know values i.e 'I': 1 .
@@ -163,7 +133,7 @@ none
 **Time spent:**  2h
 
 **Question or achievement today:**
-LeetCode ##001 Two sum : Finding two numbers such that they add up to the given number.
+LeetCode #0001 Two sum : Finding two numbers such that they add up to the given number.
 
 **What I did first (my first approach):**
 Tried checking each number in the array with others in the array considering the number must not come back twice which eliminated case 3.
