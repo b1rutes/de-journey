@@ -97,7 +97,7 @@ LeetCode ##0009 Palindrome Number : Finding if the number is palindrome or not.
 Removing negatives since they can't be palindrome .
 
 **What I finally did (final solution):**
-"see python/leetcode/009-palindrome-number.py"
+ "python/leetcode/009-palindrome-number.py"
 
 
 **Comment:**
