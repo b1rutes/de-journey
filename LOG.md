@@ -44,6 +44,15 @@
 
 ## Entries
 
+### Week 1 review
+
+- Hours studied this week: 6 hrs
+- SQL & Python problems solved this week / total: 10
+- What shipped: SQL skills
+- What blocked me: Poor resource.
+- Plan for next week: Increase in number of questions solved. 
+
+
 ### 2026-11-15 · Week 1 · Python 
 
 **Time spent:**  2h
