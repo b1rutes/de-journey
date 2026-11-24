@@ -58,9 +58,11 @@
 -LeetCode #0595 Big countries : Finding Big countries from a table based on the conditions set on area and population.
 
 **What I did first (my first approach):**
+
 Selecting the whole table and adding clause by clause.
 
 **What I finally did (final solution):**
+
 "see sql/leetcode/first-queries.sql"
 
 
