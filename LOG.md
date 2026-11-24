@@ -48,6 +48,7 @@
 **Time spent:**  2h
 
 **Question or achievement today:**
+
 Achievement: Learnt SELECT Queries and some clauses : DISTINCT, FROM, GROUP BY, ORDER BY, HAVING, OFFSET, LIMIT, FETCH FIRST.
 
 LeetCode #0620 Not boring : Finding movies with odd id and a description not equal to 'boring'
