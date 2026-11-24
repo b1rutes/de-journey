@@ -43,6 +43,28 @@
 --- -->
 
 ## Entries
+### 2026-11-24 · Week 2 · SQL
+
+**Time spent:**  2h
+
+**Question or achievement today:**
+Achievement: Learnt SELECT Queries and some clauses : DISTINCT, FROM, GROUP BY, ORDER BY, HAVING, OFFSET, LIMIT, FETCH FIRST.
+
+LeetCode #0620 Not boring : Finding movies with odd id and a description not equal to 'boring'
+
+LeetCode #1757 Recyclable and Low fat products: Finding products that are recyclable and low fat products.
+
+LeetCode #0595 Big countries : Finding Big countries from a table based on the conditions set on area and population.
+
+**What I did first (my first approach):**
+Selecting the whole table and adding clause by clause.
+
+**What I finally did (final solution):**
+"see sql/leetcode/first-queries.sql"
+
+
+**Comment:**
+Learnt SELECT queries and its clauses.
 
 ### Week 1 review
 
