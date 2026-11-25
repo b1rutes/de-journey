@@ -43,6 +43,23 @@
 --- -->
 
 ## Entries
+
+### 2026-11-25 · Week 2 · SQL
+
+**Time spent:**  1h
+
+**Question or achievement today:**
+
+-Achievement: Learnt DDL and DML Queries 
+
+**What I did first (my first approach):**
+
+No questions done
+
+**What I finally did (final solution):**
+
+No Questions done.
+
 ### 2026-11-24 · Week 2 · SQL
 
 **Time spent:**  2h
