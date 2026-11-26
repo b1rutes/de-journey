@@ -44,6 +44,22 @@
 
 ## Entries
 
+### 2026-11-26 · Week 2 · GIT AND VERSION CONTROL
+
+**Time spent:**  45 MIN
+
+**Question or achievement today:**
+
+-Achievement: Learnt what is version control and git with some of its commands like add, commit, status,...
+
+**What I did first (my first approach):**
+
+TO every exercise checking the current directory is the best first step.
+
+**What I finally did (final solution):**
+
+Created a repo, checked its status, added files to staging area, commited changes.
+
 ### 2026-11-25 · Week 2 · SQL
 
 **Time spent:**  1h
